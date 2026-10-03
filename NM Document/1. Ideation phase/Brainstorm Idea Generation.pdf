@@ -1,0 +1,3140 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Brainstorm Idea Prioritization Laptop Orders Revised)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 21 0 R 26 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F1-0 9 0 R
+/F1-1 13 0 R
+/F1-2 17 0 R
+/F2 6 0 R
+/F2-0 10 0 R
+/F2-1 14 0 R
+/F2-2 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Parent 2 0 R
+/Contents 8 0 R
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/Length 4093
+>>
+stream
+q
+0.0 0.0 612 792 re
+W
+n
+q
+0 679 612 113 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 72 36 Tm
+(Brainstorm \046 Idea Prioritization \055 Laptop Orders \050ServiceNow Flow Designer\051) Tj
+T*
+ET
+BT
+1 0 0 1 514.648 36 Tm
+(Page 1) Tj
+T*
+ET
+q
+1 0 0 1 78 702.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 22 Tf
+26 TL
+(Ideation Phase) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 684.4 cm
+q
+BT
+1 0 0 1 0 3 Tm
+14 TL
+/F2 11 Tf
+0.164706 0.615686 0.560784 rg
+(Brainstorm \046 Idea Prioritization Template) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 655.4 cm
+q
+BT
+1 0 0 1 0 4 Tm
+19 TL
+/F2 15 Tf
+0.121569 0.227451 0.372549 rg
+(Brainstorm \046 Idea Prioritization Template\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 609.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1 10 Tf
+14 TL
+(Brainstorming gives a team a relaxed\054 open space where everybody can contribute to creative problem) Tj
+T*
+(solving\056 The focus is on quantity over quality\072 unconventional ideas are welcome\054 every idea can be) Tj
+T*
+(built upon\054 and all participants are encouraged to work together to produce a wide range of solutions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 577.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18 Tm
+/F1 10 Tf
+14 TL
+(Use this template in your own brainstorming sessions so your team can let ideas flow and begin) Tj
+T*
+(shaping concepts\054 even when you are not in the same room\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 529.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 23 Tm
+/F2 15 Tf
+19 TL
+(Step\0551\072 Team Gathering\054 Collaboration and Select the Problem) Tj
+T*
+(Statement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 506.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Before you collaborate  ) Tj
+(\05010 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 461.4 cm
+q
+BT
+1 0 0 1 0 32 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(A\056 Team gathering\072) Tj
+/F1 10 Tf
+( Four participants took part\072 the project lead\054 a ServiceNow developer\054 a business) Tj
+T*
+(analyst\054 and an IT procurement coordinator\056 Background material \050existing laptop request workflow\054) Tj
+T*
+(approval turnaround data\054 and the standard laptop catalog\051 was circulated before the session\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 429.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(B\056 Set the goal\072) Tj
+/F1 10 Tf
+( Generate ideas that use Flow Designer to automate the ordering of standard laptops) Tj
+T*
+(end to end\054 from the employee\047s request to final delivery\054 with as little manual effort as possible\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 397.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(C\056 Learn the facilitation tools\072) Tj
+/F1 10 Tf
+( The group went through the facilitation tips to keep the session) Tj
+T*
+(focused and productive\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 374.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Define your problem statement  ) Tj
+(\0505 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 72 287.4 cm
+q
+0.909804 0.960784 0.952941 rg
+n
+0 84 468 -84 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 10 66 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9 Tf
+12 TL
+(PROBLEM) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 10 6 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 36.5 Tm
+/F2 11.5 Tf
+16 TL
+(How might we use Flow Designer in ServiceNow to automate standard laptop) Tj
+T*
+(orders\054 so that employees get approved devices sooner and the IT team spends) Tj
+T*
+(less time on repetitive procurement tasks\077) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.164706 0.615686 0.560784 RG
+1.2 w
+n
+0 84 m
+468 84 l
+S
+n
+0 0 m
+468 0 l
+S
+n
+0 0 m
+0 84 l
+S
+n
+468 0 m
+468 84 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 78 264.4 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 11.5 Tf
+15 TL
+(Key rules of brainstorming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 233.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+-0.020857 Tw
+14 TL
+/F1 10 Tf
+0 0 0 rg
+<7f2053746179206f6e20746f7069632020> Tj
+<20207f2057656c636f6d6520626f6c642069646561732020> Tj
+<20207f20486f6c64206261636b2063726974696369736d2020> Tj
+<20207f204c697374656e20746f206f74686572732020> Tj
+<20207f2041696d20666f7220766f6c756d652020> Tj
+<20207f> Tj
+T*
+0 Tw
+(Be visual where possible) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+endstream
+endobj
+8 0 obj
+[ 19 0 R 20 0 R ]
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Length 4099
+>>
+stream
+q
+q
+0.0 0.0 612 792 re
+W
+n
+q
+0 679 612 113 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 72 36 Tm
+(Brainstorm \046 Idea Prioritization \055 Laptop Orders \050ServiceNow Flow Designer\051) Tj
+T*
+ET
+BT
+1 0 0 1 514.648 36 Tm
+(Page 1) Tj
+T*
+ET
+q
+1 0 0 1 78 702.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 22 Tf
+26 TL
+(Ideation Phase) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 684.4 cm
+q
+BT
+1 0 0 1 0 3 Tm
+14 TL
+/F2 11 Tf
+0.164706 0.615686 0.560784 rg
+(Brainstorm \046 Idea Prioritization Template) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 655.4 cm
+q
+BT
+1 0 0 1 0 4 Tm
+19 TL
+/F2 15 Tf
+0.121569 0.227451 0.372549 rg
+(Brainstorm \046 Idea Prioritization Template\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 609.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1 10 Tf
+14 TL
+(Brainstorming gives a team a relaxed\054 open space where everybody can contribute to creative problem) Tj
+T*
+(solving\056 The focus is on quantity over quality\072 unconventional ideas are welcome\054 every idea can be) Tj
+T*
+(built upon\054 and all participants are encouraged to work together to produce a wide range of solutions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 577.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18 Tm
+/F1 10 Tf
+14 TL
+(Use this template in your own brainstorming sessions so your team can let ideas flow and begin) Tj
+T*
+(shaping concepts\054 even when you are not in the same room\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 529.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 23 Tm
+/F2 15 Tf
+19 TL
+(Step\0551\072 Team Gathering\054 Collaboration and Select the Problem) Tj
+T*
+(Statement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 506.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Before you collaborate  ) Tj
+(\05010 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 461.4 cm
+q
+BT
+1 0 0 1 0 32 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(A\056 Team gathering\072) Tj
+/F1 10 Tf
+( Four participants took part\072 the project lead\054 a ServiceNow developer\054 a business) Tj
+T*
+(analyst\054 and an IT procurement coordinator\056 Background material \050existing laptop request workflow\054) Tj
+T*
+(approval turnaround data\054 and the standard laptop catalog\051 was circulated before the session\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 429.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(B\056 Set the goal\072) Tj
+/F1 10 Tf
+( Generate ideas that use Flow Designer to automate the ordering of standard laptops) Tj
+T*
+(end to end\054 from the employee\047s request to final delivery\054 with as little manual effort as possible\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 397.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(C\056 Learn the facilitation tools\072) Tj
+/F1 10 Tf
+( The group went through the facilitation tips to keep the session) Tj
+T*
+(focused and productive\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 374.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Define your problem statement  ) Tj
+(\0505 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 72 287.4 cm
+q
+0.909804 0.960784 0.952941 rg
+n
+0 84 468 -84 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 10 66 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9 Tf
+12 TL
+(PROBLEM) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 10 6 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 36.5 Tm
+/F2 11.5 Tf
+16 TL
+(How might we use Flow Designer in ServiceNow to automate standard laptop) Tj
+T*
+(orders\054 so that employees get approved devices sooner and the IT team spends) Tj
+T*
+(less time on repetitive procurement tasks\077) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.164706 0.615686 0.560784 RG
+1.2 w
+n
+0 84 m
+468 84 l
+S
+n
+0 0 m
+468 0 l
+S
+n
+0 0 m
+0 84 l
+S
+n
+468 0 m
+468 84 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 78 264.4 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 11.5 Tf
+15 TL
+(Key rules of brainstorming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 233.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+-0.020857 Tw
+14 TL
+/F1 10 Tf
+0 0 0 rg
+<7f2053746179206f6e20746f7069632020> Tj
+<20207f2057656c636f6d6520626f6c642069646561732020> Tj
+<20207f20486f6c64206261636b2063726974696369736d2020> Tj
+<20207f204c697374656e20746f206f74686572732020> Tj
+<20207f2041696d20666f7220766f6c756d652020> Tj
+<20207f> Tj
+T*
+0 Tw
+(Be visual where possible) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+
+Q
+
+endstream
+endobj
+12 0 obj
+<<
+/Length 4158
+>>
+stream
+q
+1 0.0 0.0 1 0.0 -102 cm
+0.0 0.0 612 792 re
+W
+n
+q
+0 57 612 622 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 72 36 Tm
+(Brainstorm \046 Idea Prioritization \055 Laptop Orders \050ServiceNow Flow Designer\051) Tj
+T*
+ET
+BT
+1 0 0 1 514.648 36 Tm
+(Page 1) Tj
+T*
+ET
+q
+1 0 0 1 78 702.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 4 Tm
+/F2-0 22 Tf
+26 TL
+(Ideation Phase) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 684.4 cm
+q
+BT
+1 0 0 1 0 3 Tm
+14 TL
+/F2-0 11 Tf
+0.164706 0.615686 0.560784 rg
+(Brainstorm \046 Idea Prioritization Template) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 655.4 cm
+q
+BT
+1 0 0 1 0 4 Tm
+19 TL
+/F2-0 15 Tf
+0.121569 0.227451 0.372549 rg
+(Brainstorm \046 Idea Prioritization Template\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 609.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-0 10 Tf
+14 TL
+(Brainstorming gives a team a relaxed\054 open space where everybody can contribute to creative problem) Tj
+T*
+(solving\056 The focus is on quantity over quality\072 unconventional ideas are welcome\054 every idea can be) Tj
+T*
+(built upon\054 and all participants are encouraged to work together to produce a wide range of solutions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 577.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18 Tm
+/F1-0 10 Tf
+14 TL
+(Use this template in your own brainstorming sessions so your team can let ideas flow and begin) Tj
+T*
+(shaping concepts\054 even when you are not in the same room\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 529.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 23 Tm
+/F2-0 15 Tf
+19 TL
+(Step\0551\072 Team Gathering\054 Collaboration and Select the Problem) Tj
+T*
+(Statement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 506.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2-0 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Before you collaborate  ) Tj
+(\05010 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 461.4 cm
+q
+BT
+1 0 0 1 0 32 Tm
+14 TL
+/F2-0 10 Tf
+0 0 0 rg
+(A\056 Team gathering\072) Tj
+/F1-0 10 Tf
+( Four participants took part\072 the project lead\054 a ServiceNow developer\054 a business) Tj
+T*
+(analyst\054 and an IT procurement coordinator\056 Background material \050existing laptop request workflow\054) Tj
+T*
+(approval turnaround data\054 and the standard laptop catalog\051 was circulated before the session\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 429.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2-0 10 Tf
+0 0 0 rg
+(B\056 Set the goal\072) Tj
+/F1-0 10 Tf
+( Generate ideas that use Flow Designer to automate the ordering of standard laptops) Tj
+T*
+(end to end\054 from the employee\047s request to final delivery\054 with as little manual effort as possible\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 397.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2-0 10 Tf
+0 0 0 rg
+(C\056 Learn the facilitation tools\072) Tj
+/F1-0 10 Tf
+( The group went through the facilitation tips to keep the session) Tj
+T*
+(focused and productive\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 374.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2-0 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Define your problem statement  ) Tj
+(\0505 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 72 287.4 cm
+q
+0.909804 0.960784 0.952941 rg
+n
+0 84 468 -84 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+q
+1 0 0 1 10 66 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3 Tm
+/F2-0 9 Tf
+12 TL
+(PROBLEM) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 10 6 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 36.5 Tm
+/F2-0 11.5 Tf
+16 TL
+(How might we use Flow Designer in ServiceNow to automate standard laptop) Tj
+T*
+(orders\054 so that employees get approved devices sooner and the IT team spends) Tj
+T*
+(less time on repetitive procurement tasks\077) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.164706 0.615686 0.560784 RG
+1.2 w
+n
+0 84 m
+468 84 l
+S
+n
+0 0 m
+468 0 l
+S
+n
+0 0 m
+0 84 l
+S
+n
+468 0 m
+468 84 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 78 264.4 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2-0 11.5 Tf
+15 TL
+(Key rules of brainstorming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 233.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+-0.020857 Tw
+14 TL
+/F1-0 10 Tf
+0 0 0 rg
+<7f2053746179206f6e20746f7069632020> Tj
+<20207f2057656c636f6d6520626f6c642069646561732020> Tj
+<20207f20486f6c64206261636b2063726974696369736d2020> Tj
+<20207f204c697374656e20746f206f74686572732020> Tj
+<20207f2041696d20666f7220766f6c756d652020> Tj
+<20207f> Tj
+T*
+0 Tw
+(Be visual where possible) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Length 8264
+>>
+stream
+q
+q
+q
+0.0 0.0 612 792 re
+W
+n
+q
+0 679 612 113 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 72 36 Tm
+(Brainstorm \046 Idea Prioritization \055 Laptop Orders \050ServiceNow Flow Designer\051) Tj
+T*
+ET
+BT
+1 0 0 1 514.648 36 Tm
+(Page 1) Tj
+T*
+ET
+q
+1 0 0 1 78 702.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 22 Tf
+26 TL
+(Ideation Phase) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 684.4 cm
+q
+BT
+1 0 0 1 0 3 Tm
+14 TL
+/F2 11 Tf
+0.164706 0.615686 0.560784 rg
+(Brainstorm \046 Idea Prioritization Template) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 655.4 cm
+q
+BT
+1 0 0 1 0 4 Tm
+19 TL
+/F2 15 Tf
+0.121569 0.227451 0.372549 rg
+(Brainstorm \046 Idea Prioritization Template\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 609.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1 10 Tf
+14 TL
+(Brainstorming gives a team a relaxed\054 open space where everybody can contribute to creative problem) Tj
+T*
+(solving\056 The focus is on quantity over quality\072 unconventional ideas are welcome\054 every idea can be) Tj
+T*
+(built upon\054 and all participants are encouraged to work together to produce a wide range of solutions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 577.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18 Tm
+/F1 10 Tf
+14 TL
+(Use this template in your own brainstorming sessions so your team can let ideas flow and begin) Tj
+T*
+(shaping concepts\054 even when you are not in the same room\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 529.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 23 Tm
+/F2 15 Tf
+19 TL
+(Step\0551\072 Team Gathering\054 Collaboration and Select the Problem) Tj
+T*
+(Statement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 506.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Before you collaborate  ) Tj
+(\05010 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 461.4 cm
+q
+BT
+1 0 0 1 0 32 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(A\056 Team gathering\072) Tj
+/F1 10 Tf
+( Four participants took part\072 the project lead\054 a ServiceNow developer\054 a business) Tj
+T*
+(analyst\054 and an IT procurement coordinator\056 Background material \050existing laptop request workflow\054) Tj
+T*
+(approval turnaround data\054 and the standard laptop catalog\051 was circulated before the session\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 429.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(B\056 Set the goal\072) Tj
+/F1 10 Tf
+( Generate ideas that use Flow Designer to automate the ordering of standard laptops) Tj
+T*
+(end to end\054 from the employee\047s request to final delivery\054 with as little manual effort as possible\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 397.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(C\056 Learn the facilitation tools\072) Tj
+/F1 10 Tf
+( The group went through the facilitation tips to keep the session) Tj
+T*
+(focused and productive\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 374.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Define your problem statement  ) Tj
+(\0505 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 72 287.4 cm
+q
+0.909804 0.960784 0.952941 rg
+n
+0 84 468 -84 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 10 66 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9 Tf
+12 TL
+(PROBLEM) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 10 6 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 36.5 Tm
+/F2 11.5 Tf
+16 TL
+(How might we use Flow Designer in ServiceNow to automate standard laptop) Tj
+T*
+(orders\054 so that employees get approved devices sooner and the IT team spends) Tj
+T*
+(less time on repetitive procurement tasks\077) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.164706 0.615686 0.560784 RG
+1.2 w
+n
+0 84 m
+468 84 l
+S
+n
+0 0 m
+468 0 l
+S
+n
+0 0 m
+0 84 l
+S
+n
+468 0 m
+468 84 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 78 264.4 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 11.5 Tf
+15 TL
+(Key rules of brainstorming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 233.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+-0.020857 Tw
+14 TL
+/F1 10 Tf
+0 0 0 rg
+<7f2053746179206f6e20746f7069632020> Tj
+<20207f2057656c636f6d6520626f6c642069646561732020> Tj
+<20207f20486f6c64206261636b2063726974696369736d2020> Tj
+<20207f204c697374656e20746f206f74686572732020> Tj
+<20207f2041696d20666f7220766f6c756d652020> Tj
+<20207f> Tj
+T*
+0 Tw
+(Be visual where possible) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+
+Q
+
+q
+1 0.0 0.0 1 0.0 -102 cm
+0.0 0.0 612 792 re
+W
+n
+q
+0 57 612 622 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 72 36 Tm
+(Brainstorm \046 Idea Prioritization \055 Laptop Orders \050ServiceNow Flow Designer\051) Tj
+T*
+ET
+BT
+1 0 0 1 514.648 36 Tm
+(Page 1) Tj
+T*
+ET
+q
+1 0 0 1 78 702.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 4 Tm
+/F2-0 22 Tf
+26 TL
+(Ideation Phase) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 684.4 cm
+q
+BT
+1 0 0 1 0 3 Tm
+14 TL
+/F2-0 11 Tf
+0.164706 0.615686 0.560784 rg
+(Brainstorm \046 Idea Prioritization Template) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 655.4 cm
+q
+BT
+1 0 0 1 0 4 Tm
+19 TL
+/F2-0 15 Tf
+0.121569 0.227451 0.372549 rg
+(Brainstorm \046 Idea Prioritization Template\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 609.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-0 10 Tf
+14 TL
+(Brainstorming gives a team a relaxed\054 open space where everybody can contribute to creative problem) Tj
+T*
+(solving\056 The focus is on quantity over quality\072 unconventional ideas are welcome\054 every idea can be) Tj
+T*
+(built upon\054 and all participants are encouraged to work together to produce a wide range of solutions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 577.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18 Tm
+/F1-0 10 Tf
+14 TL
+(Use this template in your own brainstorming sessions so your team can let ideas flow and begin) Tj
+T*
+(shaping concepts\054 even when you are not in the same room\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 529.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 23 Tm
+/F2-0 15 Tf
+19 TL
+(Step\0551\072 Team Gathering\054 Collaboration and Select the Problem) Tj
+T*
+(Statement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 506.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2-0 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Before you collaborate  ) Tj
+(\05010 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 461.4 cm
+q
+BT
+1 0 0 1 0 32 Tm
+14 TL
+/F2-0 10 Tf
+0 0 0 rg
+(A\056 Team gathering\072) Tj
+/F1-0 10 Tf
+( Four participants took part\072 the project lead\054 a ServiceNow developer\054 a business) Tj
+T*
+(analyst\054 and an IT procurement coordinator\056 Background material \050existing laptop request workflow\054) Tj
+T*
+(approval turnaround data\054 and the standard laptop catalog\051 was circulated before the session\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 429.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2-0 10 Tf
+0 0 0 rg
+(B\056 Set the goal\072) Tj
+/F1-0 10 Tf
+( Generate ideas that use Flow Designer to automate the ordering of standard laptops) Tj
+T*
+(end to end\054 from the employee\047s request to final delivery\054 with as little manual effort as possible\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 397.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2-0 10 Tf
+0 0 0 rg
+(C\056 Learn the facilitation tools\072) Tj
+/F1-0 10 Tf
+( The group went through the facilitation tips to keep the session) Tj
+T*
+(focused and productive\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 374.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2-0 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Define your problem statement  ) Tj
+(\0505 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 72 287.4 cm
+q
+0.909804 0.960784 0.952941 rg
+n
+0 84 468 -84 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+q
+1 0 0 1 10 66 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3 Tm
+/F2-0 9 Tf
+12 TL
+(PROBLEM) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 10 6 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 36.5 Tm
+/F2-0 11.5 Tf
+16 TL
+(How might we use Flow Designer in ServiceNow to automate standard laptop) Tj
+T*
+(orders\054 so that employees get approved devices sooner and the IT team spends) Tj
+T*
+(less time on repetitive procurement tasks\077) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.164706 0.615686 0.560784 RG
+1.2 w
+n
+0 84 m
+468 84 l
+S
+n
+0 0 m
+468 0 l
+S
+n
+0 0 m
+0 84 l
+S
+n
+468 0 m
+468 84 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 78 264.4 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2-0 11.5 Tf
+15 TL
+(Key rules of brainstorming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 233.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+-0.020857 Tw
+14 TL
+/F1-0 10 Tf
+0 0 0 rg
+<7f2053746179206f6e20746f7069632020> Tj
+<20207f2057656c636f6d6520626f6c642069646561732020> Tj
+<20207f20486f6c64206261636b2063726974696369736d2020> Tj
+<20207f204c697374656e20746f206f74686572732020> Tj
+<20207f2041696d20666f7220766f6c756d652020> Tj
+<20207f> Tj
+T*
+0 Tw
+(Be visual where possible) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+
+Q
+
+endstream
+endobj
+16 0 obj
+<<
+/Length 4132
+>>
+stream
+q
+0.0 0.0 612 792 re
+W
+n
+q
+0 0 612 57 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F1-1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 72 36 Tm
+(Brainstorm \046 Idea Prioritization \055 Laptop Orders \050ServiceNow Flow Designer\051) Tj
+T*
+ET
+BT
+1 0 0 1 514.648 36 Tm
+(Page 1) Tj
+T*
+ET
+q
+1 0 0 1 78 702.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 4 Tm
+/F2-1 22 Tf
+26 TL
+(Ideation Phase) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 684.4 cm
+q
+BT
+1 0 0 1 0 3 Tm
+14 TL
+/F2-1 11 Tf
+0.164706 0.615686 0.560784 rg
+(Brainstorm \046 Idea Prioritization Template) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 655.4 cm
+q
+BT
+1 0 0 1 0 4 Tm
+19 TL
+/F2-1 15 Tf
+0.121569 0.227451 0.372549 rg
+(Brainstorm \046 Idea Prioritization Template\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 609.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-1 10 Tf
+14 TL
+(Brainstorming gives a team a relaxed\054 open space where everybody can contribute to creative problem) Tj
+T*
+(solving\056 The focus is on quantity over quality\072 unconventional ideas are welcome\054 every idea can be) Tj
+T*
+(built upon\054 and all participants are encouraged to work together to produce a wide range of solutions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 577.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18 Tm
+/F1-1 10 Tf
+14 TL
+(Use this template in your own brainstorming sessions so your team can let ideas flow and begin) Tj
+T*
+(shaping concepts\054 even when you are not in the same room\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 529.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 23 Tm
+/F2-1 15 Tf
+19 TL
+(Step\0551\072 Team Gathering\054 Collaboration and Select the Problem) Tj
+T*
+(Statement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 506.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2-1 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Before you collaborate  ) Tj
+(\05010 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 461.4 cm
+q
+BT
+1 0 0 1 0 32 Tm
+14 TL
+/F2-1 10 Tf
+0 0 0 rg
+(A\056 Team gathering\072) Tj
+/F1-1 10 Tf
+( Four participants took part\072 the project lead\054 a ServiceNow developer\054 a business) Tj
+T*
+(analyst\054 and an IT procurement coordinator\056 Background material \050existing laptop request workflow\054) Tj
+T*
+(approval turnaround data\054 and the standard laptop catalog\051 was circulated before the session\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 429.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2-1 10 Tf
+0 0 0 rg
+(B\056 Set the goal\072) Tj
+/F1-1 10 Tf
+( Generate ideas that use Flow Designer to automate the ordering of standard laptops) Tj
+T*
+(end to end\054 from the employee\047s request to final delivery\054 with as little manual effort as possible\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 397.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2-1 10 Tf
+0 0 0 rg
+(C\056 Learn the facilitation tools\072) Tj
+/F1-1 10 Tf
+( The group went through the facilitation tips to keep the session) Tj
+T*
+(focused and productive\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 374.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2-1 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Define your problem statement  ) Tj
+(\0505 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 72 287.4 cm
+q
+0.909804 0.960784 0.952941 rg
+n
+0 84 468 -84 re
+f*
+0 0 0 rg
+BT
+/F1-1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 10 66 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3 Tm
+/F2-1 9 Tf
+12 TL
+(PROBLEM) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 10 6 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 36.5 Tm
+/F2-1 11.5 Tf
+16 TL
+(How might we use Flow Designer in ServiceNow to automate standard laptop) Tj
+T*
+(orders\054 so that employees get approved devices sooner and the IT team spends) Tj
+T*
+(less time on repetitive procurement tasks\077) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.164706 0.615686 0.560784 RG
+1.2 w
+n
+0 84 m
+468 84 l
+S
+n
+0 0 m
+468 0 l
+S
+n
+0 0 m
+0 84 l
+S
+n
+468 0 m
+468 84 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 78 264.4 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2-1 11.5 Tf
+15 TL
+(Key rules of brainstorming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 233.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+-0.020857 Tw
+14 TL
+/F1-1 10 Tf
+0 0 0 rg
+<7f2053746179206f6e20746f7069632020> Tj
+<20207f2057656c636f6d6520626f6c642069646561732020> Tj
+<20207f20486f6c64206261636b2063726974696369736d2020> Tj
+<20207f204c697374656e20746f206f74686572732020> Tj
+<20207f2041696d20666f7220766f6c756d652020> Tj
+<20207f> Tj
+T*
+0 Tw
+(Be visual where possible) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Length 12403
+>>
+stream
+q
+q
+q
+q
+0.0 0.0 612 792 re
+W
+n
+q
+0 679 612 113 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 72 36 Tm
+(Brainstorm \046 Idea Prioritization \055 Laptop Orders \050ServiceNow Flow Designer\051) Tj
+T*
+ET
+BT
+1 0 0 1 514.648 36 Tm
+(Page 1) Tj
+T*
+ET
+q
+1 0 0 1 78 702.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 22 Tf
+26 TL
+(Ideation Phase) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 684.4 cm
+q
+BT
+1 0 0 1 0 3 Tm
+14 TL
+/F2 11 Tf
+0.164706 0.615686 0.560784 rg
+(Brainstorm \046 Idea Prioritization Template) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 655.4 cm
+q
+BT
+1 0 0 1 0 4 Tm
+19 TL
+/F2 15 Tf
+0.121569 0.227451 0.372549 rg
+(Brainstorm \046 Idea Prioritization Template\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 609.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1 10 Tf
+14 TL
+(Brainstorming gives a team a relaxed\054 open space where everybody can contribute to creative problem) Tj
+T*
+(solving\056 The focus is on quantity over quality\072 unconventional ideas are welcome\054 every idea can be) Tj
+T*
+(built upon\054 and all participants are encouraged to work together to produce a wide range of solutions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 577.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18 Tm
+/F1 10 Tf
+14 TL
+(Use this template in your own brainstorming sessions so your team can let ideas flow and begin) Tj
+T*
+(shaping concepts\054 even when you are not in the same room\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 529.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 23 Tm
+/F2 15 Tf
+19 TL
+(Step\0551\072 Team Gathering\054 Collaboration and Select the Problem) Tj
+T*
+(Statement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 506.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Before you collaborate  ) Tj
+(\05010 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 461.4 cm
+q
+BT
+1 0 0 1 0 32 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(A\056 Team gathering\072) Tj
+/F1 10 Tf
+( Four participants took part\072 the project lead\054 a ServiceNow developer\054 a business) Tj
+T*
+(analyst\054 and an IT procurement coordinator\056 Background material \050existing laptop request workflow\054) Tj
+T*
+(approval turnaround data\054 and the standard laptop catalog\051 was circulated before the session\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 429.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(B\056 Set the goal\072) Tj
+/F1 10 Tf
+( Generate ideas that use Flow Designer to automate the ordering of standard laptops) Tj
+T*
+(end to end\054 from the employee\047s request to final delivery\054 with as little manual effort as possible\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 397.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2 10 Tf
+0 0 0 rg
+(C\056 Learn the facilitation tools\072) Tj
+/F1 10 Tf
+( The group went through the facilitation tips to keep the session) Tj
+T*
+(focused and productive\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 374.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Define your problem statement  ) Tj
+(\0505 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 72 287.4 cm
+q
+0.909804 0.960784 0.952941 rg
+n
+0 84 468 -84 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 10 66 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9 Tf
+12 TL
+(PROBLEM) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 10 6 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 36.5 Tm
+/F2 11.5 Tf
+16 TL
+(How might we use Flow Designer in ServiceNow to automate standard laptop) Tj
+T*
+(orders\054 so that employees get approved devices sooner and the IT team spends) Tj
+T*
+(less time on repetitive procurement tasks\077) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.164706 0.615686 0.560784 RG
+1.2 w
+n
+0 84 m
+468 84 l
+S
+n
+0 0 m
+468 0 l
+S
+n
+0 0 m
+0 84 l
+S
+n
+468 0 m
+468 84 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 78 264.4 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 11.5 Tf
+15 TL
+(Key rules of brainstorming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 233.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+-0.020857 Tw
+14 TL
+/F1 10 Tf
+0 0 0 rg
+<7f2053746179206f6e20746f7069632020> Tj
+<20207f2057656c636f6d6520626f6c642069646561732020> Tj
+<20207f20486f6c64206261636b2063726974696369736d2020> Tj
+<20207f204c697374656e20746f206f74686572732020> Tj
+<20207f2041696d20666f7220766f6c756d652020> Tj
+<20207f> Tj
+T*
+0 Tw
+(Be visual where possible) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+
+Q
+
+q
+1 0.0 0.0 1 0.0 -102 cm
+0.0 0.0 612 792 re
+W
+n
+q
+0 57 612 622 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 72 36 Tm
+(Brainstorm \046 Idea Prioritization \055 Laptop Orders \050ServiceNow Flow Designer\051) Tj
+T*
+ET
+BT
+1 0 0 1 514.648 36 Tm
+(Page 1) Tj
+T*
+ET
+q
+1 0 0 1 78 702.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 4 Tm
+/F2-0 22 Tf
+26 TL
+(Ideation Phase) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 684.4 cm
+q
+BT
+1 0 0 1 0 3 Tm
+14 TL
+/F2-0 11 Tf
+0.164706 0.615686 0.560784 rg
+(Brainstorm \046 Idea Prioritization Template) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 655.4 cm
+q
+BT
+1 0 0 1 0 4 Tm
+19 TL
+/F2-0 15 Tf
+0.121569 0.227451 0.372549 rg
+(Brainstorm \046 Idea Prioritization Template\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 609.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-0 10 Tf
+14 TL
+(Brainstorming gives a team a relaxed\054 open space where everybody can contribute to creative problem) Tj
+T*
+(solving\056 The focus is on quantity over quality\072 unconventional ideas are welcome\054 every idea can be) Tj
+T*
+(built upon\054 and all participants are encouraged to work together to produce a wide range of solutions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 577.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18 Tm
+/F1-0 10 Tf
+14 TL
+(Use this template in your own brainstorming sessions so your team can let ideas flow and begin) Tj
+T*
+(shaping concepts\054 even when you are not in the same room\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 529.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 23 Tm
+/F2-0 15 Tf
+19 TL
+(Step\0551\072 Team Gathering\054 Collaboration and Select the Problem) Tj
+T*
+(Statement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 506.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2-0 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Before you collaborate  ) Tj
+(\05010 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 461.4 cm
+q
+BT
+1 0 0 1 0 32 Tm
+14 TL
+/F2-0 10 Tf
+0 0 0 rg
+(A\056 Team gathering\072) Tj
+/F1-0 10 Tf
+( Four participants took part\072 the project lead\054 a ServiceNow developer\054 a business) Tj
+T*
+(analyst\054 and an IT procurement coordinator\056 Background material \050existing laptop request workflow\054) Tj
+T*
+(approval turnaround data\054 and the standard laptop catalog\051 was circulated before the session\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 429.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2-0 10 Tf
+0 0 0 rg
+(B\056 Set the goal\072) Tj
+/F1-0 10 Tf
+( Generate ideas that use Flow Designer to automate the ordering of standard laptops) Tj
+T*
+(end to end\054 from the employee\047s request to final delivery\054 with as little manual effort as possible\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 397.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2-0 10 Tf
+0 0 0 rg
+(C\056 Learn the facilitation tools\072) Tj
+/F1-0 10 Tf
+( The group went through the facilitation tips to keep the session) Tj
+T*
+(focused and productive\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 374.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2-0 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Define your problem statement  ) Tj
+(\0505 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 72 287.4 cm
+q
+0.909804 0.960784 0.952941 rg
+n
+0 84 468 -84 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+q
+1 0 0 1 10 66 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3 Tm
+/F2-0 9 Tf
+12 TL
+(PROBLEM) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 10 6 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 36.5 Tm
+/F2-0 11.5 Tf
+16 TL
+(How might we use Flow Designer in ServiceNow to automate standard laptop) Tj
+T*
+(orders\054 so that employees get approved devices sooner and the IT team spends) Tj
+T*
+(less time on repetitive procurement tasks\077) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.164706 0.615686 0.560784 RG
+1.2 w
+n
+0 84 m
+468 84 l
+S
+n
+0 0 m
+468 0 l
+S
+n
+0 0 m
+0 84 l
+S
+n
+468 0 m
+468 84 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 78 264.4 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2-0 11.5 Tf
+15 TL
+(Key rules of brainstorming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 233.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+-0.020857 Tw
+14 TL
+/F1-0 10 Tf
+0 0 0 rg
+<7f2053746179206f6e20746f7069632020> Tj
+<20207f2057656c636f6d6520626f6c642069646561732020> Tj
+<20207f20486f6c64206261636b2063726974696369736d2020> Tj
+<20207f204c697374656e20746f206f74686572732020> Tj
+<20207f2041696d20666f7220766f6c756d652020> Tj
+<20207f> Tj
+T*
+0 Tw
+(Be visual where possible) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+q
+0 0 612 57 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F1-1 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 72 36 Tm
+(Brainstorm \046 Idea Prioritization \055 Laptop Orders \050ServiceNow Flow Designer\051) Tj
+T*
+ET
+BT
+1 0 0 1 514.648 36 Tm
+(Page 1) Tj
+T*
+ET
+q
+1 0 0 1 78 702.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 4 Tm
+/F2-1 22 Tf
+26 TL
+(Ideation Phase) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 684.4 cm
+q
+BT
+1 0 0 1 0 3 Tm
+14 TL
+/F2-1 11 Tf
+0.164706 0.615686 0.560784 rg
+(Brainstorm \046 Idea Prioritization Template) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 655.4 cm
+q
+BT
+1 0 0 1 0 4 Tm
+19 TL
+/F2-1 15 Tf
+0.121569 0.227451 0.372549 rg
+(Brainstorm \046 Idea Prioritization Template\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 609.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-1 10 Tf
+14 TL
+(Brainstorming gives a team a relaxed\054 open space where everybody can contribute to creative problem) Tj
+T*
+(solving\056 The focus is on quantity over quality\072 unconventional ideas are welcome\054 every idea can be) Tj
+T*
+(built upon\054 and all participants are encouraged to work together to produce a wide range of solutions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 577.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18 Tm
+/F1-1 10 Tf
+14 TL
+(Use this template in your own brainstorming sessions so your team can let ideas flow and begin) Tj
+T*
+(shaping concepts\054 even when you are not in the same room\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 529.4 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 23 Tm
+/F2-1 15 Tf
+19 TL
+(Step\0551\072 Team Gathering\054 Collaboration and Select the Problem) Tj
+T*
+(Statement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 506.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2-1 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Before you collaborate  ) Tj
+(\05010 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 461.4 cm
+q
+BT
+1 0 0 1 0 32 Tm
+14 TL
+/F2-1 10 Tf
+0 0 0 rg
+(A\056 Team gathering\072) Tj
+/F1-1 10 Tf
+( Four participants took part\072 the project lead\054 a ServiceNow developer\054 a business) Tj
+T*
+(analyst\054 and an IT procurement coordinator\056 Background material \050existing laptop request workflow\054) Tj
+T*
+(approval turnaround data\054 and the standard laptop catalog\051 was circulated before the session\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 429.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2-1 10 Tf
+0 0 0 rg
+(B\056 Set the goal\072) Tj
+/F1-1 10 Tf
+( Generate ideas that use Flow Designer to automate the ordering of standard laptops) Tj
+T*
+(end to end\054 from the employee\047s request to final delivery\054 with as little manual effort as possible\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 397.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+14 TL
+/F2-1 10 Tf
+0 0 0 rg
+(C\056 Learn the facilitation tools\072) Tj
+/F1-1 10 Tf
+( The group went through the facilitation tips to keep the session) Tj
+T*
+(focused and productive\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 374.4 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+15 TL
+/F2-1 11.5 Tf
+0.164706 0.615686 0.560784 rg
+(Define your problem statement  ) Tj
+(\0505 minutes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 72 287.4 cm
+q
+0.909804 0.960784 0.952941 rg
+n
+0 84 468 -84 re
+f*
+0 0 0 rg
+BT
+/F1-1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 10 66 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3 Tm
+/F2-1 9 Tf
+12 TL
+(PROBLEM) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 10 6 cm
+q
+0.121569 0.227451 0.372549 rg
+BT
+1 0 0 1 0 36.5 Tm
+/F2-1 11.5 Tf
+16 TL
+(How might we use Flow Designer in ServiceNow to automate standard laptop) Tj
+T*
+(orders\054 so that employees get approved devices sooner and the IT team spends) Tj
+T*
+(less time on repetitive procurement tasks\077) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.164706 0.615686 0.560784 RG
+1.2 w
+n
+0 84 m
+468 84 l
+S
+n
+0 0 m
+468 0 l
+S
+n
+0 0 m
+0 84 l
+S
+n
+468 0 m
+468 84 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 78 264.4 cm
+q
+0.164706 0.615686 0.560784 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2-1 11.5 Tf
+15 TL
+(Key rules of brainstorming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 233.4 cm
+q
+BT
+1 0 0 1 0 18 Tm
+-0.020857 Tw
+14 TL
+/F1-1 10 Tf
+0 0 0 rg
+<7f2053746179206f6e20746f7069632020> Tj
+<20207f2057656c636f6d6520626f6c642069646561732020> Tj
+<20207f20486f6c64206261636b2063726974696369736d2020> Tj
+<20207f204c697374656e20746f206f74686572732020> Tj
+<20207f2041696d20666f7220766f6c756d652020> Tj
+<20207f> Tj
+T*
+0 Tw
+(Be visual where possible) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/Length 1556
+>>
+stream
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-2 12 Tf
+14.4 TL
+ET
+0.721569 0.745098 0.776471 RG
+0.6 w
+0.952941 0.960784 0.968627 rg
+n
+72 653 140.4 18 re
+f*
+0.721569 0.745098 0.776471 RG
+n
+72 653 468 18 re
+S
+n
+212.4 671 m
+212.4 653 l
+S
+0.121569 0.227451 0.372549 rg
+BT
+/F2-2 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 78 658.7 Tm
+(Date) Tj
+T*
+ET
+0.133333 0.133333 0.133333 rg
+BT
+/F1-2 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 218.4 658.7 Tm
+(2 October 2026) Tj
+T*
+ET
+0.952941 0.960784 0.968627 rg
+n
+72 635 140.4 18 re
+f*
+0.721569 0.745098 0.776471 RG
+n
+72 635 468 18 re
+S
+n
+212.4 653 m
+212.4 635 l
+S
+0.121569 0.227451 0.372549 rg
+BT
+/F2-2 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 78 640.7 Tm
+(Team ID) Tj
+T*
+ET
+0.133333 0.133333 0.133333 rg
+BT
+/F1-2 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 218.4 640.7 Tm
+T*
+ET
+0.952941 0.960784 0.968627 rg
+n
+72 605 140.4 30 re
+f*
+0.721569 0.745098 0.776471 RG
+n
+72 605 468 30 re
+S
+n
+212.4 635 m
+212.4 605 l
+S
+0.121569 0.227451 0.372549 rg
+BT
+/F2-2 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 78 616.7 Tm
+(Project Name) Tj
+T*
+ET
+0.133333 0.133333 0.133333 rg
+BT
+/F1-2 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 218.4 622.7 Tm
+(Streamlining IT Procurement\072 Automating Standard Laptop Orders with) Tj
+T*
+ET
+BT
+1 0 0 1 218.4 610.7 Tm
+(Flow Designer) Tj
+T*
+ET
+0.952941 0.960784 0.968627 rg
+n
+72 587 140.4 18 re
+f*
+0.721569 0.745098 0.776471 RG
+n
+72 587 468 18 re
+S
+n
+212.4 605 m
+212.4 587 l
+S
+0.121569 0.227451 0.372549 rg
+BT
+/F2-2 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 78 592.7 Tm
+(Maximum Marks) Tj
+T*
+ET
+0.133333 0.133333 0.133333 rg
+BT
+/F1-2 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 218.4 592.7 Tm
+(4 Marks) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 23 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2560
+>>
+stream
+Gb"/(99\+"%_hgAi3]>V4:L*]pZD79h97oT7[:[^dNVm.D3E.#8PNoKr;tecPBp&i<O91-PXcGb!As9HN=Y'"NB`I"SJ2&gYMc;h%QH)B2W4@r&$&3F^O"GD?de8m$G3cJ?orAl_!.cPdK6?$4*&0T'a6.;Q7OQP7`YZ1#6.4SK?l:d12F2qYU1#04MW2B)H"=h1?Gfr08h21pK>?tM.cUFj0*[>cF,$c?[hbN<aT;.A#ETc/3p%!J([KmbdJMHdF>p;)7>bAfeK'P.IaJ$\5!UT@(C19#C$q9EW\Ni3Jn80D>Vce(S!aY-mhkDSf1ou\:9:mJ?SYA*j`H"at9hQKo]-='n.$7o/lpkBbW2;?DAaMSe[>p')JQG4-id[E^E!r6a/mVIu0d`BLb];ofb,i.%uPP$cduG/),g17i"3g,W)C'e_:Bt+BE<<'kN2NUGFp+ijf3+kOJTj=eXNR"qjf&)B(p4;uLIOo;W"\VNTOj[,XtSZ-IUqFi,,(n?T<rQ#nTGQL@=&\?NmdY-S6q%+.?0i4:$kCjs=IXI/A:JJIj4;mR(VB]BZ/":t.+Vd%?[NgI8qUOW&q9AN.Bl"3^CN%$SsKp#msd;)%GS*P?c]:<%B07D0?'bNUe%OT1fnGLprh2.D,^Ps5pG/67B1'H3PZjh!jSAm4N:8<kh(Mh[f>o"s9$MYDjem*e_kpaYq8[Xlri_Bi#]pOcR&jj6&+^P_A]jF*^5:H_`)$JPX%h[F4?9Hs>WPKjtA.#kBTa>L:/ki]V?sjc>S2EB]#>5R<"\ZBDX=KlQRk.EN\=W<Q?2CPmXhoO8W*!>H,A+bAN;Gc]@3[%p!</WunC5\W.b5_2cDO\.r-t&JDq[YpGk?[Nq#QX!:VI:Lm9,a]Fd?YLB!W+@o4B[k\]5sAjC&NRNpg9&bDS$bP[gS,Wt]UuAPOIMo"S@72i&ZbVTuN80XlZr^FX[=^4ps#<>@]b_3F+#Y2SW1)^'enqL1MTDY%,Dkr%Ng@u5*;OlVDAL=/,eZ,t7DN>.)X#MPU['#Z-?q&C=AdIao25;]HnJsC".H&fgTLUZr"#J<=rK,A27@XUtK%Yj`AoEWQS%Lf@<-9HsCJr63e[3Lbsms'[a(F,`u[]ImEca-HTj(ldt_'S1a&Mh_l:>O4_&AF-7aZ&i.H<]4a6=T)f!j1s,-sW)<-E$L`.8ZcfZiQl>."S&JAlq-fa/WAapm"h+i?iNXhad-N1d?`T"FcV;%#2&+.ZE:_agYCDK><jt+_?G^>]u1!Sp8PE"u%R(QqQ$:UD/\FarFUm8fUGk8UbG?ic4*'F,qYdnX:Ug;8,H=-&C]YA:Obaa[=XPIL4SaI9*o\S@`Z-]F#sg:`"bU+Wn+TMK8i9bmM>^"tS)l),CaaI/7icLAGK9r5nMgZ9!:4_^WET3"#;#Rr6VaCQ>kI2e\W^b8n%e7HEZq^0[JE/_r5T`K6)l-RF7sY9GKRNccfpG0L^uc@Y3hc/,^O[h_ree3!1_%\T\a-,\5+'I#o2&[<N)%[@IWj8;QTohYMcobEVobn;4+]3@p&SGr;>F;CGW<@E1!5[SPV;?QX^g-0gsO/A<O(Up(6g^MOG1Z47Gd[,C_9k`DDF8sr9mGmrqF=_rQGE7CCNb6X?pGe+S7"WFia*p^K\7hH5)s5d,^Rp^%ht:?:]rQ=-im79_hq]79],,hGkrTsG&q=8nD]C1FC5b9PZD5u9`ED&tU/Q*D!`LM$Y"LKRmALf&i?2=V$4B$q[D5qN1M`oqJ:rB].:q'eFBRVS']]n-$;,r<I]cLrcQ\)[oLGB_mn4iR50eUrn9d0VG;XYTfbNf?g!gJC]^?\X[imM"n>TdR7#2(Q&Q/i9=,\%7HLcbi2q.[1Q[7Q@m;i+R.f0V"X.e$p.SILTHW4V3h2mT-Ws&NgjjOnM'm&CC@AE9d/^W8arGaP1S1"HVH98\G"3jR9L:-j@AjDA<?#u\PG&X>lms'I9Ta#$X3Q;6ZUdmhmBJ;qi,$6mMWpj>[^RD"eF`l*:01ahI-YC[pH>oU\fh`NW(H8$T!V(2\q1p=k?d$r\@bm]i,hg(#`-STZ7m!:0`l]Y`eE/(?.Cs7=`nhRO%l;Ib:6WEa4&5M@M@fYYEXJ4pJ'M,@>%6jSH$%No!3R2u@KDrSIUYDrUW>lohJi%p6bNk5SNEKe\r`^,q^')RU!5;'Fd+?g9oMVaVTX@6:,W&HHTWb9WoKma($PsiqjX[,&U_&qiU]or!Vp(l,k42g+e*0nBK[t[bo;]BVl$E7:>j)%lN7RN[$"R4/PGe#^0?.BfoZ/to1Csg-m*$3Iut+9>nQL3MSU7WqaiV3LK-5"W'39-gKfp'h$koMdD5LaAoqkd0,A/<F7cT>W<0S-B[i'@nV3W.2YYq`c+*G.W-/;$6i'j$FAQbXpVtg"TVutl'109$HZ"0SIO%ER<hQD]kjOh+^`#OOkUMji`MeIWM,6%AN_\HbUPWU&koS^]GlMd:?&VD?ZXnG2\m[r^o6e=340_-sC)<6$U$.4?c-5eXVJKb3Q_uD1jDahgl8a4DB#("mWh4I?P@h2klG"CWefX~>
+endstream
+endobj
+23 0 obj
+<<
+/F1 24 0 R
+/F2 25 0 R
+>>
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/Contents 27 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 23 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1674
+>>
+stream
+Gatm<gN)%,&:N/3lr/\]8.=sR]QEEcDU\-_:9EcE?Q]t*OcT\R5Z3iMmfFbWQY\+1-PF';pZrqPFq<tlK0QO7b\D[?.D39:_=_1s#</jhQp/=+l);'=g76koDm_sQ9d:Ga^I=h<E-pKI#<k=KK68OICS]saL7dC&:'j#i`W]<-4&Lqq0S'JW.c/$L,,[cEZh6`*P%F8]^4Q4h5<_ocMM@#O2fE+#"f?58kQ\7&K8tOo5^Xg\"b5^dIn-!4&r<(m1X'U@g90Un;$sbp`Bf<ZpotV>ks6d/"PW7THOnoY:m>]EX=$HkM?!QS:-7+#nRi@s8tl?9&&bqE%AP'f3\]/DE4-\hYnM[/@B^&eLQN5t!ChpF%^6Y_J6L9bk<R:\Kq`UKYN%mbE!XB:f#+lNUrs]M_s'e2jSa'i`L8_"E:6at5uCO4/GZ$_JJ<^)$`fF=W/4Du7r'^l'V%#abdggfOk]A-Oc7/G0*EsS:_)=h_=Aaa96&$eL=afpb=Wn/!ioNX'PS8C-Ju)Sd0Z:Be@q<VkFX$79=7F>E,Q@1BE@Et%uMMp>F<07)6%q.[ffiaQfLJ"D]emZpEhe!0t##Ac]F/A-s"eOcoEk5^Lb&q/,Dutn8+B"Vr)cp:-mO0hBXdBf+(aH7'NCbRL<R1d;7f#8O+%%"8]fAc@f.ehTqDK6+B'<]*5N>+C<qM[Z<k=qPT5,d-V9aVu(;Bp*QrLj7N_hc`qA\l<6VGO;qR,;m\_-Z55L0TLVN9^FU(kAB:gG3OB0VPsch*\m:j1O!&VLLA$W@s2nLfD(GCE<;Q5P/*Ncb?nd16<*gj.L+)'1"Ajq4hmI8aho'UX4T]Grf4+V)[[q,=+Y,!jl4YhL`:7fWc0E5c!)G694HYdV`6WDc04aIh<s&]*$GN0sfm4k8!ZJ5o*.*^kqXT*mJ=[gUs$N7q9+;QS\Q`#![Bh_;?C8FX-&C%G!X%E3+bW?/r2OC!L<ro8CloOT]W$I?a^5SF3_.9?KkQ;#$`l3kDiuYkE(S--/8(KCh"j8)s-JigpMqIt0oc'<-f)T;q_o3`YSoA[,4(OO"ArW/'g*B"@,&.M483huO.T+/hM@*+(.GnG(P=:FH5eI@S*0H&>]_mM%h+?p*`,$B:Jk)=h&n\]#P"YT3cSuf%?gq(@eH`uqu19AZ8ka`5!T^:4i'[L)22=rOVLe@SeK2u*)F_O_F]W]g<J>H-*5>h-!>DtEQ3lf@Ze''U4QQd$JNnt=XZ'sVLH6)-A&@M3gP]e'AO0%`u3k[_\0ka/p3@h)_QjbFQ1`-GO5R[L65"AL6'N@i:4b8KY.l*(?YTH'Q@Db\iqHC+Bi3e*SF#;s0/lZ!7a>dhn-@-^$X^;%T@cYI!m>fd5mNPJ`AQnI,rLH@_KS?2K'=YWUAYnK`Du;+Pm6VY:8\GPMN)nFF(Q?1.^a(q1doh8E5]dNJK[b)W)-i>?u_D`@NZ:a6d7uXo&&_p89uYIn+Lh=-'19bdY"X!`(a?\mt6Li/]%+JZ'N8h^o]=!i(=SPhpc3I)Tq%&`RPoZUK9GFZ4i*@u/,9^VJS5N]Z)9qG"Xcs0$D=^fT1([Og[o>oDD_Bt>?C)+-I)f'rf9f/q!=gW#%lJhJZY_6j&uiJ3*(WBl#/2Jd9a<=Std5]B[#k995u>A]mVM.:a3h5\6:M$Fmr#IJW"n,~>
+endstream
+endobj
+xref
+0 28
+0000000000 65535 f 
+0000000015 00000 n 
+0000000116 00000 n 
+0000000189 00000 n 
+0000000238 00000 n 
+0000000505 00000 n 
+0000000612 00000 n 
+0000000724 00000 n 
+0000004869 00000 n 
+0000004902 00000 n 
+0000005009 00000 n 
+0000005122 00000 n 
+0000009274 00000 n 
+0000013485 00000 n 
+0000013593 00000 n 
+0000013706 00000 n 
+0000022023 00000 n 
+0000026208 00000 n 
+0000026316 00000 n 
+0000026429 00000 n 
+0000038886 00000 n 
+0000040495 00000 n 
+0000040687 00000 n 
+0000043340 00000 n 
+0000043384 00000 n 
+0000043492 00000 n 
+0000043605 00000 n 
+0000043797 00000 n 
+trailer
+<<
+/Size 28
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+45564
+%%EOF
